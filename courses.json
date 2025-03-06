@@ -273,6 +273,13 @@
             "code": "GnS",
             "description": "Gender and Society",
             "credit": "2.00"
+        },
+        {
+            "year_level": "4th",
+            "sem": "1st",
+            "code": "IT413",
+            "description": "Social and Professional Issues",
+            "credit": "2.75"
         }
     ]
 }
