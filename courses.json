@@ -235,6 +235,13 @@
         {
             "year_level": "3rd",
             "sem": "1st",
+            "code": "IT314",
+            "description": "Software Engineering",
+            "credit": "2.50"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
             "code": "IT315",
             "description": "IT Elective 1",
             "credit": "3.0"
